@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+<style>
+        body {
+            
+            background-color: #f0f0f0;
+		}
+
+        blockquote {
+            font-weight: bold;
+			max-width: 600px;
+            margin: 10px auto;
+            padding: 15px;
+            border-left: 8px solid #4CAF50;
+            background-color: #f8fffe;
+        }
+    </style>
+</head>
+
