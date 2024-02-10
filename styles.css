@@ -3,7 +3,7 @@
 <style>
         body {
             
-            background-color: #f0f0f0;
+            
 		}
 
         blockquote {
@@ -13,6 +13,7 @@
             padding: 15px;
             border-left: 8px solid #4CAF50;
             background-color: #f8fffe;
+			background-color: #f0f0f0;
         }
     </style>
 </head>
